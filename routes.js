@@ -2,7 +2,7 @@ var express = require('express')
 const router=express.Router();
 var bodyParser = require('body-parser'); 
 
-var html = require('HTML');
+var html = require('html');
 
 var fs = require('fs-extra');
 // var path = require('path')
